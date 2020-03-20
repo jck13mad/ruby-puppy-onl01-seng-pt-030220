@@ -22,5 +22,5 @@ class Dog
   end
   
   def self.print_all
-    for 
+    @@all.each do |
 end
